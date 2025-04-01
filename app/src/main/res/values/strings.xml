@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo Eisenhower</string>
+    
+    <!-- Quadrant Titles -->
+    <string name="quadrant_urgent_important">Do First</string>
+    <string name="quadrant_not_urgent_important">Schedule</string>
+    <string name="quadrant_urgent_not_important">Delegate</string>
+    <string name="quadrant_not_urgent_not_important">Eliminate</string>
+    
+    <!-- Dialog Strings -->
+    <string name="add_todo">Add New Todo</string>
+    <string name="edit_todo">Edit Todo</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description (Optional)</string>
+    <string name="select_quadrant">Select Quadrant</string>
+    
+    <!-- Button Labels -->
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="clear_completed">Clear Completed</string>
+    
+    <!-- Empty States -->
+    <string name="no_todos">No tasks here</string>
+    <string name="add_some_todos">Add some tasks to get started</string>
+    
+    <!-- Error Messages -->
+    <string name="error_empty_title">Title cannot be empty</string>
+    <string name="error_todo_not_found">Todo not found</string>
+    <string name="error_invalid_quadrant">Invalid quadrant</string>
+    <string name="error_unknown">An unexpected error occurred</string>
+</resources>
